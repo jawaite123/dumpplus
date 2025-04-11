@@ -1,0 +1,11 @@
+baseURL = "https://dumpplus.com/"
+languageCode = "en-us"
+title = "Dump + LLC | Dump Trailer Rentals & Property Services "
+
+# Site parameters
+[params]
+  description = "Professional dump trailer rentals, brush cutting, grapple work, and bush hogging services."
+  phone = "(678) 591-0487"
+  email = "info@dumpplus.com"
+  hours = "Flexible hours by appointment"
+  year = "2025"
